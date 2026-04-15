@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @khalil-Gardiwal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @khalil-Gardiwal
 
-<!---
-khalil-Gardiwal/khalil-Gardiwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I am a passionate learner focused on improving my skills in software development and data science.  
+I enjoy building small but useful projects and continuously learning new technologies.
+
+---
+
+## 🧠 Interests
+- Web Development 🌐  
+- Data Science 📊  
+- Python Programming 🐍  
+- Building real-world projects 💡  
+
+---
+
+## 🌱 Currently Learning
+- Python (Data Analysis & Automation)  
+- JavaScript (Frontend Development)  
+- Git & GitHub for version control  
+
+---
+
+## 🤝 Collaboration
+I’m open to collaborating on beginner-friendly projects and learning opportunities.
+
+---
+
+## 📫 Contact
+- Email: khalilgardiwal@gmail.com
+- GitHub: https://github.com/khalil-Gardiwal  
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving problems and turning ideas into real working projects 🚀
